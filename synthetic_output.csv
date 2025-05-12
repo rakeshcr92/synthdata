@@ -1,0 +1,101 @@
+demand_id,requested_item,quantity_needed,urgency_level,requested_by,latitude,longitude,request_status,expected_fulfillment_date
+sdv-id-UXRiqo,Oxygen Tanks,93,Critical,NGO009,14.797227,-99.589224,Matched,2025-03-07
+sdv-id-wHudpf,Bandages,6,High,NGO006,84.126939,104.518206,Matched,2025-03-30
+sdv-id-SZiVvt,Oxygen Tanks,139,Low,NGO005,-62.3447055,-163.246962,Matched,2025-03-30
+sdv-id-KIiJAj,Insulin Vials,6,Critical,NGO007,-10.161014,-78.443845,Pending,2025-03-30
+sdv-id-UfTnTR,Oxygen Tanks,82,Critical,NGO003,76.2714365,-91.283268,Fulfilled,2025-03-30
+sdv-id-sOlreD,Oxygen Tanks,26,High,NGO003,-21.6912785,-56.134717,Matched,2025-03-08
+sdv-id-eoGBoL,Insulin Vials,133,High,NGO006,81.3663715,101.18035,Fulfilled,2025-03-30
+sdv-id-MWJxlW,Insulin Vials,19,High,NGO010,-22.768563,-50.928882,Fulfilled,2025-03-22
+sdv-id-ZnATEj,Oxygen Tanks,6,High,NGO010,13.2534855,-12.002572,Matched,2025-03-17
+sdv-id-KICuBa,Wheelchairs,148,Low,NGO005,-70.342637,-59.641147,Matched,2025-03-04
+sdv-id-lacRqv,Wheelchairs,27,High,NGO002,-52.5614105,52.981617,Fulfilled,2025-03-30
+sdv-id-OnHDaH,Gloves,92,Critical,NGO005,-49.7134055,38.598583,Pending,2025-03-30
+sdv-id-PJKYrQ,Bandages,197,High,NGO004,10.449718,-95.423344,Fulfilled,2025-03-15
+sdv-id-irUZoH,Insulin Vials,133,High,NGO003,67.1453165,146.798575,Matched,2025-03-30
+sdv-id-tSwvCe,Wheelchairs,29,Low,NGO003,-32.725729,96.347346,Matched,2025-03-30
+sdv-id-nLXlUX,Oxygen Tanks,11,Low,NGO008,62.5604415,-100.692866,Matched,2025-03-15
+sdv-id-UKhcvX,Gloves,170,Medium,NGO008,-72.5322985,160.237247,Matched,2025-03-30
+sdv-id-fbyolj,Bandages,157,Critical,NGO007,-83.191544,178.581575,Fulfilled,2025-03-30
+sdv-id-mpJEgG,Gloves,6,Critical,NGO005,-39.1733475,64.611835,Pending,2025-03-08
+sdv-id-MeBoJO,Insulin Vials,6,Low,NGO006,-5.342691,-114.406486,Fulfilled,2025-03-30
+sdv-id-RpQmYf,Wheelchairs,6,High,NGO005,-52.636518,76.871662,Fulfilled,2025-03-16
+sdv-id-GGhxGt,Bandages,6,High,NGO001,67.6479495,51.747648,Pending,2025-03-05
+sdv-id-PfGmVm,Insulin Vials,64,Medium,NGO007,-87.4223265,166.351736,Matched,2025-03-30
+sdv-id-ZnRNWc,Wheelchairs,187,High,NGO005,-50.8684835,98.116898,Fulfilled,2025-03-05
+sdv-id-pSwVHB,Oxygen Tanks,129,Medium,NGO001,-40.4396865,146.861934,Matched,2025-03-28
+sdv-id-qOWjEJ,Gloves,12,High,NGO004,30.9319985,-89.662329,Matched,2025-03-15
+sdv-id-iWxiUz,Bandages,90,High,NGO008,-64.228313,118.748039,Matched,2025-03-13
+sdv-id-weSbFp,Oxygen Tanks,6,Critical,NGO002,-5.439525,-107.634238,Fulfilled,2025-03-10
+sdv-id-amHXKw,Gloves,84,High,NGO009,48.5158015,-65.322205,Fulfilled,2025-03-30
+sdv-id-KcSvKP,Oxygen Tanks,79,Low,NGO004,-27.53761,59.51502,Pending,2025-03-30
+sdv-id-AkMKiw,Wheelchairs,144,Low,NGO006,-89.1822025,-70.765116,Matched,2025-03-05
+sdv-id-rfBFjA,Gloves,91,Low,NGO002,4.015361,-61.991855,Matched,2025-03-23
+sdv-id-zmzsSj,Wheelchairs,132,Critical,NGO004,-22.6824925,-143.614956,Pending,2025-03-30
+sdv-id-amvvhx,Gloves,109,Medium,NGO008,-66.16451,-14.781391,Fulfilled,2025-03-17
+sdv-id-AxLVfr,Bandages,36,Critical,NGO008,25.765368,152.57209,Matched,2025-03-09
+sdv-id-fFDqVH,Insulin Vials,6,High,NGO007,79.471322,141.297871,Pending,2025-03-01
+sdv-id-utCzDq,Oxygen Tanks,55,Low,NGO009,-17.6277225,149.905585,Matched,2025-03-01
+sdv-id-aejqRN,Wheelchairs,6,High,NGO003,-64.380956,-117.520253,Matched,2025-03-23
+sdv-id-DpWAGr,Wheelchairs,170,Medium,NGO006,-42.839663,-148.980274,Matched,2025-03-16
+sdv-id-MXKEeI,Oxygen Tanks,81,Low,NGO007,-89.142176,129.041295,Matched,2025-03-30
+sdv-id-QebGbc,Oxygen Tanks,76,Medium,NGO006,-59.145905,-37.781914,Fulfilled,2025-03-13
+sdv-id-jrhNZA,Oxygen Tanks,125,Medium,NGO004,-78.796442,19.385555,Matched,2025-03-30
+sdv-id-dBoYrC,Insulin Vials,69,Critical,NGO004,73.7019905,-79.117967,Matched,2025-03-19
+sdv-id-pMuMMZ,Wheelchairs,197,Critical,NGO003,-34.885631,167.557495,Pending,2025-03-04
+sdv-id-gBTCCv,Oxygen Tanks,197,Low,NGO004,-80.577091,89.432768,Matched,2025-03-16
+sdv-id-JWDgiE,Wheelchairs,14,Critical,NGO007,-48.2263895,-178.576824,Pending,2025-03-01
+sdv-id-pKkhmY,Oxygen Tanks,6,Medium,NGO001,-51.1844255,-109.524926,Pending,2025-03-30
+sdv-id-KtYQhr,Insulin Vials,197,High,NGO004,6.691777,111.885253,Fulfilled,2025-03-11
+sdv-id-TLHLpd,Wheelchairs,18,Low,NGO005,-14.1099895,-119.782824,Fulfilled,2025-03-01
+sdv-id-cnTsBI,Gloves,6,Low,NGO002,13.2483605,-74.491579,Pending,2025-03-03
+sdv-id-MhWvRw,Wheelchairs,6,Low,NGO002,32.153098,82.400393,Pending,2025-03-17
+sdv-id-XghxFz,Insulin Vials,163,Medium,NGO004,75.592682,-84.999304,Fulfilled,2025-03-21
+sdv-id-RatmBv,Oxygen Tanks,6,Low,NGO010,44.548408,55.716003,Pending,2025-03-18
+sdv-id-uXDeZZ,Bandages,72,Low,NGO006,-18.430086,115.163883,Pending,2025-03-30
+sdv-id-LCbdKg,Wheelchairs,6,Medium,NGO004,-82.517586,-26.519783,Fulfilled,2025-03-30
+sdv-id-nryUnv,Oxygen Tanks,104,Critical,NGO002,-25.613852,33.627695,Pending,2025-03-09
+sdv-id-CWoRpF,Bandages,179,Low,NGO003,-68.548863,-143.222638,Matched,2025-03-30
+sdv-id-BxxfaG,Gloves,185,Critical,NGO008,-83.713049,-123.001337,Fulfilled,2025-03-01
+sdv-id-BAWJYy,Gloves,53,Critical,NGO006,1.842981,155.521537,Pending,2025-03-21
+sdv-id-ejaAur,Oxygen Tanks,149,Medium,NGO008,-70.38796,171.545979,Fulfilled,2025-03-10
+sdv-id-GHlNRV,Gloves,6,Critical,NGO009,71.2531735,108.111237,Matched,2025-03-30
+sdv-id-zCpkVR,Insulin Vials,197,High,NGO005,-15.486497,-1.042585,Pending,2025-03-17
+sdv-id-UcKFIU,Oxygen Tanks,46,High,NGO002,71.24994,62.537052,Pending,2025-03-01
+sdv-id-oNwKqq,Oxygen Tanks,197,Low,NGO001,4.903613,-84.163424,Pending,2025-03-29
+sdv-id-PvmrPi,Gloves,6,Low,NGO006,4.017228,-134.702909,Matched,2025-03-09
+sdv-id-yadMJq,Insulin Vials,6,High,NGO004,-12.898535,40.861565,Fulfilled,2025-03-06
+sdv-id-hTUKBi,Oxygen Tanks,40,Low,NGO002,-60.494451,72.197151,Fulfilled,2025-03-22
+sdv-id-wqjzXB,Insulin Vials,6,Medium,NGO001,-40.3235665,-27.025473,Pending,2025-03-01
+sdv-id-Bekdep,Gloves,23,Critical,NGO006,73.4532315,-49.982511,Matched,2025-03-27
+sdv-id-OttVlt,Bandages,130,Critical,NGO002,-76.3674275,-5.252767,Fulfilled,2025-03-07
+sdv-id-peGbyt,Gloves,132,Low,NGO006,28.967551,79.192641,Matched,2025-03-25
+sdv-id-GisStU,Wheelchairs,107,Low,NGO010,-6.619019,-106.201745,Fulfilled,2025-03-19
+sdv-id-dfqWDl,Oxygen Tanks,139,Medium,NGO009,65.396767,141.599036,Pending,2025-03-17
+sdv-id-dCNnsC,Oxygen Tanks,6,Critical,NGO002,-23.0886045,21.753353,Fulfilled,2025-03-11
+sdv-id-NzqkEz,Insulin Vials,82,Medium,NGO002,-3.9068785,-169.316387,Pending,2025-03-30
+sdv-id-TJEoUi,Oxygen Tanks,6,Critical,NGO009,-79.4609235,43.843156,Pending,2025-03-10
+sdv-id-kPUUiR,Wheelchairs,6,Critical,NGO002,72.4176315,143.218254,Pending,2025-03-24
+sdv-id-QvQtow,Insulin Vials,191,Medium,NGO001,-67.0765015,-48.005143,Fulfilled,2025-03-15
+sdv-id-FiSUhe,Wheelchairs,17,Medium,NGO008,74.6109345,9.595356,Matched,2025-03-01
+sdv-id-rdUyyP,Wheelchairs,26,Low,NGO001,-29.4411405,-130.114665,Pending,2025-03-18
+sdv-id-YGwctc,Insulin Vials,99,Critical,NGO008,34.4557865,35.694422,Pending,2025-03-17
+sdv-id-DtxhCe,Oxygen Tanks,178,High,NGO007,-17.644486,27.558081,Pending,2025-03-26
+sdv-id-PkGpOC,Gloves,52,Critical,NGO007,-43.4921495,51.983384,Matched,2025-03-16
+sdv-id-FtIPTp,Oxygen Tanks,43,Critical,NGO009,-10.1877175,-67.56886,Matched,2025-03-25
+sdv-id-VrkKfk,Oxygen Tanks,71,Critical,NGO005,-8.884928,17.435126,Pending,2025-03-23
+sdv-id-nfVPtM,Oxygen Tanks,75,Low,NGO006,4.2066985,-91.971433,Fulfilled,2025-03-30
+sdv-id-yrhPHW,Gloves,130,Low,NGO007,-79.805579,-44.614948,Pending,2025-03-19
+sdv-id-MkaGaj,Insulin Vials,36,High,NGO001,79.865648,162.883058,Fulfilled,2025-03-10
+sdv-id-piAQiV,Insulin Vials,70,Critical,NGO003,-64.451868,-128.350862,Fulfilled,2025-03-01
+sdv-id-fSvqmh,Bandages,6,High,NGO003,74.12718,171.573977,Fulfilled,2025-03-21
+sdv-id-PRMOKs,Insulin Vials,117,Low,NGO003,-49.6398305,21.17565,Pending,2025-03-08
+sdv-id-GMvzme,Insulin Vials,188,Medium,NGO002,59.7900915,-73.162777,Fulfilled,2025-03-30
+sdv-id-XrCQuL,Gloves,156,Medium,NGO002,22.312316,101.632287,Pending,2025-03-28
+sdv-id-yjLxFY,Oxygen Tanks,197,Critical,NGO009,16.615446,118.912637,Pending,2025-03-30
+sdv-id-wLECMF,Wheelchairs,98,Medium,NGO007,54.045833,-104.508574,Fulfilled,2025-03-07
+sdv-id-nRprTo,Oxygen Tanks,149,Critical,NGO009,-12.4049625,-79.954769,Matched,2025-03-15
+sdv-id-WIQxJm,Insulin Vials,33,Critical,NGO008,-35.074035,-11.944501,Pending,2025-03-09
+sdv-id-lqMHiu,Wheelchairs,153,High,NGO010,-8.579921,-94.982931,Matched,2025-03-14
+sdv-id-hGqVxD,Gloves,43,Critical,NGO007,-84.970127,-60.751705,Matched,2025-03-06
+sdv-id-dzDKzo,Oxygen Tanks,175,Medium,NGO010,42.3374665,-171.322274,Fulfilled,2025-03-20
